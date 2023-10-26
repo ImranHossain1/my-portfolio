@@ -25,34 +25,47 @@ const About = () => {
           <div className="text-justify">
             <h2 className="text-2xl font-bold">Name : Md Imran Hossain</h2>
             <p className="my-2 w-4/6 w-full lg:w-full ">
-              I have worked as a Fullstack Web developer for the past 28 months,
-              focusing on MERN stack development. Alongside my professional
-              experience, I am currently enrolled in a Masters program in High
-              Integrity Systems at Frankfurt University of Applied Sciences. My
-              main interest lies in creating sophisticated web applications that
-              address real-life challenges faced by a large number of users. I
-              consider myself a problem solver who finds joy in coding, and I am
-              always eager to learn from experienced professionals while making
-              valuable contributions to meaningful projects.
+              I am a skilled MERN stack developer with two years of experience
+              in web development. Proficient in Node.js, Express.js, React.js,
+              Next.js, MongoDB, and Prisma, I excel in creating robust and
+              efficient web applications. My strong problem-solving abilities
+              and commitment to clean, maintainable code have led to successful
+              project outcomes. I'm passionate about staying up-to-date with
+              industry trends and leveraging the latest technologies to deliver
+              innovative solutions. I work effectively in collaborative teams,
+              and my dedication to continuous improvement ensures I'm a valuable
+              asset in dynamic development environments.
             </p>
             <p className="my-4">
-              <b className="text-red-500 ">Languages: </b>Javascript,
-              Typescript, Python, C#, C++, R, HTML5/CSS3
+              <b className="text-red-500 ">Languages: </b>Javascript, HTML5,
+              CSS3, Javascript (ES6 & ES7), TypeScript, SCSS, C# and Python.
             </p>
             <p className="my-4">
-              <b className="text-red-500 ">Databases: </b>No SQL (MongoDb), SQL
-              Server, MySQL, Postgres
+              <b className="text-red-500 ">Frontend: </b>
+              NextJs (Page Router, App Router), NextAuth, Firebase, Reactjs,
+              Redux.
             </p>
             <p className="my-4">
-              <b className="text-red-500 ">Framework: </b>ReactJs, NextJs,
-              NodeJs, ExpressJs, Prisma, GraphQL, Mongoose
+              <b className="text-red-500 ">Backend: </b>Nodejs, ExpressJs, and
+              Django.
             </p>
             <p className="my-4">
-              <b className="text-red-500 ">Tools & Technologies: </b>Git,
-              Docker, Kubernetes, AWS, VS Code, Jira
+              <b className="text-red-500 ">Cloud/Databases </b>MongoDb,
+              PostgreSQL, Prisma, AWS, Kubernetes, Docker.
             </p>
             <p className="my-4">
-              <b className="text-red-500 "> BI Tools: </b>PowerBI, Tableau
+              <b className="text-red-500 ">Design Pattern: </b>ReactJs, NextJs,
+              MVC, Modular, User flow, Prototyping, User Research, and
+              Responsive Web.
+            </p>
+            <p className="my-4">
+              <b className="text-red-500 ">Tools & Technologies: </b>Agile
+              (Scrum), Jira, CI/CD, GIT, Slack, Microsoft 365 (Word, Excel,
+              PowerPoint).
+            </p>
+            <p className="my-4">
+              <b className="text-red-500 "> Soft Skills: </b>Problem Solving,
+              Good Communication Skills, Reliable, and Consistent.
             </p>
             <div>
               <p>

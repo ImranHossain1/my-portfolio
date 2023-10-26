@@ -20,7 +20,7 @@ const SingleService = ({ service }) => {
     <div
       data-aos="zoom-in"
       data-aos-duration="2000"
-      className="py-16 px-12 text-gray-400 border border-gray-900 hover:bg-black shadow-xl rounded-lg"
+      className="py-16 px-6 md:px-12 text-gray-400 border border-gray-900 hover:bg-black shadow-xl rounded-lg"
     >
       {/* <img className="w-8 " src={img} alt="" /> */}
 

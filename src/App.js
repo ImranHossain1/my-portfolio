@@ -7,6 +7,7 @@ import About from "./pages/Home/About/About";
 import Blogs from "./pages/Home/Blog/Blogs";
 import ClimbingBoxLoader from "react-spinners/ClimbingBoxLoader";
 import { useEffect, useState } from "react";
+import { Toaster } from "react-hot-toast";
 
 function App() {
   const [loading, setIsLoading] = useState(true);
@@ -14,7 +15,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setIsLoading(false);
-    }, 4000);
+    }, 1000);
   }, []);
 
   return (
@@ -47,6 +48,7 @@ function App() {
           </Router>
         )}
       </div>
+      <Toaster />
     </div>
   );
 }

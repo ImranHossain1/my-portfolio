@@ -1,11 +1,13 @@
 import React, { useRef } from "react";
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
+import toast from "react-hot-toast";
 
 const Contact = () => {
   const form = useRef();
   const handleForm = (e) => {
     e.preventDefault();
-    emailjs.sendForm(
+    emailjs
+      .sendForm(
         "service_mod0y6s",
         "template_394r3mf",
         form.current,
@@ -13,36 +15,37 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          console.log(result)
           if (result.text === "OK") {
-            alert("Message successfully sent");
+            toast.success("Message successfully sent to Imran!");
           }
         },
         (error) => {
-          console.log(error.text);
+          toast.error("Error updating Plan:", error);
         }
       );
     e.target.reset();
   };
   return (
-    <div id="contact" className="mx-8 ">
+    <div id="contact" className="mx-2 md:mx-8 ">
       <h2 className="text-center font-semibold text-4xl  text-red-500">
         {" "}
         Get in touch
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-2 ">
-        <div data-aos="zoom-in"
-            data-aos-duration="2000">
+        <div data-aos="zoom-in" data-aos-duration="2000">
           <img
             className="mx-auto"
             src="https://i.ibb.co/9rNYWC2/5579058-removebg-preview.png"
             alt=""
           />
         </div>
-        <form 
-            data-aos="zoom-in"
-            data-aos-duration="2000"
-            ref={form} onSubmit={handleForm} className="">
+        <form
+          data-aos="zoom-in"
+          data-aos-duration="2000"
+          ref={form}
+          onSubmit={handleForm}
+          className=""
+        >
           <div className="flex items-center  w-full my-12">
             <div className="w-full justify-center mx-auto">
               <br />

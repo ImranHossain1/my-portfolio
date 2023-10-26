@@ -1,23 +1,22 @@
 [
   {
-    "name": "Frontend Developer",
+    "name": "Full Stack Developer ",
     "companyName": "Aveenir IT",
     "Website": " www.aveenirit.com",
-    "time": "03/2021 – 06/2022",
-    "responsibility1": "Built responsive and mobile-friendly web applications",
-    "responsibility2": "Managing application state using React hooks or Redux.",
-    "responsibility3": "Ensuring cross-browser compatibility and accessibility standards.",
-    "responsibility4": "Collaborating with designers and back-end developers to integrate frontend with APIs.",
-    "technologies": "Javascript, React Js,TypeScript, Redux, ES6, GitHub, VS Code"
+    "time": "03/2020 – 04/2023",
+    "responsibility1": "Identified and resolved over 200 bugs within a six-month period, resulting in a remarkable 15% improvement in application efficiency and performance.",
+    "responsibility2": "Demonstrated a strong ability to meet project requirements by developing and integrating more than 20 new features.",
+    "responsibility3": "Leveraged in-depth knowledge of MERN stack technologies to architect and implement robust and scalable solutions.",
+    "responsibility4": "Actively participated in agile methodologies for project management.",
+    "technologies": "Javascript, React Js,TypeScript, Redux, Mongoose, Prisma"
   },
   {
-    "name": "Software Developer",
+    "name": "Jr. Software Engineer",
     "time": "07/2018 – 07/2019",
     "companyName": "Srejanee CybernetiX",
-    "responsibility1": "Designing and implementing user interfaces for web applications.",
-    "responsibility2": "Developing and maintaining back-end APIs and databases.",
-    "responsibility3": "Conducting code reviews and collaborating with team members.",
-    "responsibility4": "Collaborating with cross-functional teams.",
+    "responsibility1": "Identified and resolved software bugs and issues within a complex payroll system, contributing to the overall stability and reliability of the application.",
+    "responsibility2": "Designed and implemented more than 10 new features in the payroll system, enhancing its functionality and quality, and ensuring it met the evolving needs of the organization.",
+    "responsibility3": "Fostered teamwork, collaboration, and continuous improvement in cross-functional teams to advance software development efforts.",
     "technologies": "ReactJs, Material-UI, Node.Js, Express.Js, Mongoose, Firebase, Jira, Github, VS Code"
   },
   {

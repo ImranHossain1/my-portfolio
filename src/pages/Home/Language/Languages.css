@@ -1,0 +1,34 @@
+/* Default styles for larger screens */
+.carousel-container {
+  position: relative;
+  display: inline-block;
+  /* width: 50%; */
+  text-align: center; /* Center text within the container */
+}
+.carousel-container2 {
+  display: none;
+}
+
+.carousel {
+  /* Your carousel styles */
+}
+
+.dynamic-text {
+  margin-top: 20px; /* Add space between the carousel and dynamic text */
+  margin-bottom: 20px; /* Add space between the carousel and dynamic text */
+}
+
+/* Media query for smaller screens, adjust as needed */
+@media screen and (max-width: 768px) {
+  .carousel-container {
+    display: none; /* Hide the container for smaller screens */
+  }
+  .carousel-container2 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Center text within the container */
+  }
+}

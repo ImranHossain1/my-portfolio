@@ -21,11 +21,15 @@ const Banner = () => {
               <Typical
                 className=" text-3xl lg:text-4xl  font-bold"
                 steps={[
-                  "Fast Lerner.",
+                  "Fast Learner.",
                   4000,
                   "Full Stack Developer.",
                   4000,
-                  "Cloud Developer.",
+                  "MERN Stack Developer.",
+                  4000,
+                  "Frontend Developer.",
+                  4000,
+                  "Backend Developer.",
                   4000,
                 ]}
                 loop={Infinity}
