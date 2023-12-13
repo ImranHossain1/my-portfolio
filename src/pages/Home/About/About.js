@@ -25,16 +25,21 @@ const About = () => {
           <div className="text-justify">
             <h2 className="text-2xl font-bold">Name : Md Imran Hossain</h2>
             <p className="my-2 w-4/6 w-full lg:w-full ">
-              I am a skilled MERN stack developer with two years of experience
-              in web development. Proficient in Node.js, Express.js, React.js,
-              Next.js, MongoDB, and Prisma, I excel in creating robust and
-              efficient web applications. My strong problem-solving abilities
-              and commitment to clean, maintainable code have led to successful
-              project outcomes. I'm passionate about staying up-to-date with
-              industry trends and leveraging the latest technologies to deliver
-              innovative solutions. I work effectively in collaborative teams,
-              and my dedication to continuous improvement ensures I'm a valuable
-              asset in dynamic development environments.
+              I am a highly skilled MERN stack developer with a proven track
+              record of four years in web development. My expertise spans across
+              Node.js, Express.js, React.js, Next.js, MongoDB, and Prisma,
+              allowing me to craft robust and efficient web applications. My
+              commitment to writing clean, maintainable code and my strong
+              problem-solving abilities have consistently contributed to
+              successful project outcomes. Driven by a passion for staying ahead
+              of industry trends, I am dedicated to leveraging the latest
+              technologies to deliver innovative solutions. My collaborative
+              approach makes me effective in team environments, and my
+              continuous commitment to improvement ensures that I am a valuable
+              asset in dynamic development settings. If you are looking for a
+              developer who combines technical excellence with a
+              forward-thinking mindset, I am confident in my ability to meet and
+              exceed your project requirements.
             </p>
             <p className="my-4">
               <b className="text-red-500 ">Languages: </b>Javascript, HTML5,
@@ -51,7 +56,7 @@ const About = () => {
             </p>
             <p className="my-4">
               <b className="text-red-500 ">Cloud/Databases </b>MongoDb,
-              PostgreSQL, Prisma, AWS, Kubernetes, Docker.
+              PostgreSQL, Prisma, AWS, Kubernetes, Vercel.
             </p>
             <p className="my-4">
               <b className="text-red-500 ">Design Pattern: </b>ReactJs, NextJs,
@@ -59,9 +64,9 @@ const About = () => {
               Responsive Web.
             </p>
             <p className="my-4">
-              <b className="text-red-500 ">Tools & Technologies: </b>Agile
-              (Scrum), Jira, CI/CD, GIT, Slack, Microsoft 365 (Word, Excel,
-              PowerPoint).
+              <b className="text-red-500 ">Tools & Technologies: </b>Docker,
+              Agile (Scrum), Jira, CI/CD, GIT, Slack, Microsoft 365 (Word,
+              Excel, PowerPoint).
             </p>
             <p className="my-4">
               <b className="text-red-500 "> Soft Skills: </b>Problem Solving,

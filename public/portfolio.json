@@ -1,5 +1,94 @@
 [
   {
+    "img": "https://i.ibb.co/25fsLw5/highwayhoppers-vercel-app-home.png",
+    "img1": "https://i.ibb.co/D7QZXCx/bookpage.png",
+    "img2": "https://i.ibb.co/kqp4Cqf/booking.png",
+    "img3": "https://i.ibb.co/VDf3Gzx/booking-List.png",
+    "img4": "https://i.ibb.co/zSM29g2/busList.png",
+    "img5": "https://i.ibb.co/7YDBNp4/create-Booking-Page.png",
+    "img6": "https://i.ibb.co/PgMYkVw/review.png",
+    "img7": "https://i.ibb.co/xmMyFt8/user-Booking.png",
+    "img8": "https://i.ibb.co/C0jRHFH/booking-History.png",
+    "name": "Highway Hoppers",
+    "id": "ticket",
+    "description": "Highway Hoppers is a comprehensive transportation management system that seamlessly connects passengers, administrators, and drivers, providing an efficient and user-friendly platform for bus bookings and schedule management. Developed using cutting-edge technologies, the project leverages Next.js for a responsive and dynamic front-end, incorporating App Router for smooth navigation. The user interface is enhanced with the sleek and customizable components of Ant Design, ensuring a visually appealing and intuitive experience. The backbone of Highway Hoppers lies in its robust backend, built with Prisma, Node.js, Express.js, and PostgreSQL. This powerful combination enables secure and scalable data handling, ensuring the reliability and performance of the system.",
+    "features": {
+      "user": "Users can easily book tickets according to their preferred schedules, offering flexibility and convenience.",
+      "admin": "Admin functionalities empower system administrators to efficiently manage bookings, schedules, buses, and drivers through a centralized dashboard. This includes overseeing and modifying existing bookings, updating schedules, and creating and managing driver profiles."
+    },
+    "call_to_action": "The system streamlines the entire transportation process, promoting transparency, accountability, and enhanced user experience for both passengers and administrators. Highway Hoppers stands at the intersection of modern web development and transportation management, providing a seamless and reliable solution for individuals looking to travel conveniently and administrators seeking an effective tool for managing transportation services.",
+    "beAdmin": "To be an Admin, Please Login with this information Email: imran@admin.com Password: admin123",
+    "live": "https://highwayhoppers.vercel.app/home",
+    "client_code": "https://github.com/ImranHossain1/highway-hoppers-frontend",
+    "server_code": "https://github.com/ImranHossain1/highway-hoppers-backend",
+    "tech": "Nodejs, Express Js, Postgres Sql, Nextjs (App Router), Ant Design, Redux, Docker"
+  },
+  {
+    "img": "https://i.ibb.co/JBKskBJ/home.png",
+    "img1": "https://i.ibb.co/JrbWBLp/category.png",
+    "img2": "https://i.ibb.co/30h7dSr/service2.png",
+    "img3": "https://i.ibb.co/KXyXFjf/signup.png",
+    "img4": "https://i.ibb.co/frZ4tcY/servicelist.png",
+    "img5": "https://i.ibb.co/g6yymrC/profile.png",
+    "img6": "https://i.ibb.co/z8DTDh4/pending-Booking.png",
+    "img7": "https://i.ibb.co/wgM600N/update-Profile.png",
+    "img8": "https://i.ibb.co/kHHsg3w/userList.png",
+    "img9": "https://i.ibb.co/HGHCzFL/booking-List.png",
+    "name": "Pristine Perfection",
+    "id": "makeup",
+    "description": "Pristine Perfection, an innovative makeover service platform, brings a seamless blend of aesthetics and functionality to users and administrators alike. Crafted with cutting-edge technologies, including Next.js, App Router, Redux, and Tailwind CSS, the project promises a visually stunning and responsive user experience. Tailwind CSS ensures a highly customizable and modern design, elevating the overall aesthetic appeal. On the backend, the project leverages Prisma, Node.js, Express.js, and PostgreSQL, creating a robust foundation for secure data handling. Cloudinary integration enhances the user experience by seamlessly managing and serving images, showcasing the transformative results of Pristine Perfection's makeover services.",
+    "features": {
+      "user": "Users have the freedom to book various packages on specific dates, allowing for personalized and flexible scheduling. Additionally, they can provide valuable feedback through reviews, contributing to a dynamic and interactive community.",
+      "admin": "Administrators wield powerful tools to curate the platform, including the ability to create and manage services and packages. The integration of Cloudinary simplifies image management, while the admin dashboard facilitates user role updates, booking management, blog posts, and Frequently Asked Questions (FAQs)."
+    },
+    "call_to_action": "Pristine Perfection sets itself apart by combining state-of-the-art web technologies with a focus on user empowerment and administrative control. It's not just a makeover service—it's a sophisticated and user-centric platform that redefines the online makeover experience.",
+    "beAdmin": "Please Login with this information Email: imran@admin.com Password: admin123. And for admin login helal@admin.com Password: admin123",
+    "live": "https://pristine-perfection-frontend.vercel.app/",
+    "client_code": "https://github.com/ImranHossain1/pristine-perfection-frontend",
+    "server_code": "https://github.com/ImranHossain1/pristine-perfection-backend",
+    "tech": "Nodejs, Express Js, Postgres Sql, Nextjs (App Router), Tailwind CSS Ant Design, Redux, Cloudinary, Vercel"
+  },
+  {
+    "img": "https://i.ibb.co/TPTgJvN/create-Student.png",
+    "img1": "https://i.ibb.co/8c5hc9m/student-Profile.png",
+    "img2": "https://i.ibb.co/DGS7FJj/create-Faculty.png",
+    "img3": "https://i.ibb.co/99bcmTF/course-Student-List.png",
+    "img4": "https://i.ibb.co/M67qWT6/department-List.png",
+    "img5": "https://i.ibb.co/3vFPy62/faculty-Course.png",
+    "img6": "https://i.ibb.co/FB7B8c6/faculty-List.png",
+    "img7": "https://i.ibb.co/sv33b8s/Grade-Report.png",
+    "img8": "https://i.ibb.co/Rj9Ymms/myCourse.png",
+    "img9": "https://i.ibb.co/YTQ4Qzr/course-Section.png",
+    "img10": "https://i.ibb.co/t4qZyV8/course.png",
+    "img11": "https://i.ibb.co/7YG9NHK/building.png",
+    "img12": "https://i.ibb.co/9qJcS9S/Academic-Semester.png",
+    "img13": "https://i.ibb.co/R0YKYG5/academic-Faculty.png",
+    "img14": "https://i.ibb.co/pfZYsP2/academic-Department.png",
+    "img15": "https://i.ibb.co/dtZX7qS/my-Course-Schedule.png",
+    "img16": "https://i.ibb.co/VJZtVK2/offered-Course.png",
+    "img17": "https://i.ibb.co/xjnbJdp/roomlist.png",
+    "img18": "https://i.ibb.co/h2fLfty/semester-Reg.png",
+    "img19": "https://i.ibb.co/m8JVggs/student-Marks.png",
+    "name": "University Management Service",
+    "id": "unv",
+    "description": "Welcome to the University Management System, a comprehensive dashboard application that seamlessly integrates various services to streamline academic administration. With a robust foundation built on Node.js, Express.js, Mongoose, Prisma, and PostgreSQL, this platform ensures secure authentication and efficient core services, creating a powerful and user-friendly experience.",
+    "features": {
+      "authentication_Layer": "Node.js, Express.js, and Mongoose work in harmony to provide a secure and reliable authentication layer, ensuring that user data is handled with the utmost care.",
+      "core_Service": "Leveraging the capabilities of Node.js, Express.js, Prisma, and PostgreSQL, the University Management System offers a wide array of core services. These services include creating and managing students, faculty, semesters, academic semesters, rooms, buildings, and more. The platform serves as a centralized hub for efficient administration, allowing administrators to oversee and manage various aspects of the university ecosystem.",
+      "api_gateway": "Enhancing the system's responsiveness, the SPI Gateway, powered by Redis, ensures seamless communication between different services, creating a cohesive and efficient user experience.",
+      "frontend": "The frontend, built with Next.js, App Router, and Ant Design, delivers a visually appealing and intuitive user interface. The combination of Next.js and Ant Design ensures a modern and responsive design, facilitating easy navigation and interaction.",
+      "admin": "  Administrators have the power to create and manage student profiles, faculty members, semesters, academic semesters, rooms, buildings, and more. The dashboard provides a centralized control center for efficient academic administration.",
+      "student": "  Students can easily register for courses, view grades, and access important academic information, creating a seamless experience in managing their academic journey.",
+      "faculty": "Faculty members can update student marks, view course schedules, and efficiently manage their academic responsibilities through the platform."
+    },
+    "call_to_action": "Join us in revolutionizing academic administration with the University Management System. Welcome to a digital solution that empowers administrators, students, and faculty members, making academic management more efficient, accessible, and user-friendly.",
+    "client_code": "https://github.com/ImranHossain1/highway-hoppers-frontend",
+    "auth_service": "https://github.com/ImranHossain1/highway-hoppers-backend",
+    "core_service": "https://github.com/ImranHossain1/highway-hoppers-backend",
+    "api_gateway": "https://github.com/ImranHossain1/highway-hoppers-backend",
+    "tech": "Nodejs, Express Js, Postgres Sql, Nextjs (App Router), Ant Design, Redux, Docker"
+  },
+  {
     "img": "https://i.ibb.co/p1BNRpV/home.png",
     "img1": "https://i.ibb.co/kSWPtzN/vehicles.png",
     "img2": "https://i.ibb.co/Zmb1R1K/regiistration.png",
@@ -9,7 +98,12 @@
     "img6": "https://i.ibb.co/yf7cxRc/addvehicle.png",
     "name": "Car Dealer",
     "id": "car",
-    "description": "A car dealer company that contain different brand of cars. An user are able to buy car, see orders, pay with a credit card and give review on that car. Admin  can manage users, cars, notifications. ",
+    "description": "Explore the world of automotive excellence with the Car Dealer app – your premier destination for discovering and acquiring a diverse array of cars. From top-tier brands to various categories like SUVs, sports cars, trucks, vans, and pickup vans, our app provides a curated selection to suit every preference. Choose from different quality options, including premium, luxury, and used vehicles, ensuring a personalized car-buying experience.",
+    "features": {
+      "user": "Browse our extensive list of cars, place orders effortlessly, and experience secure payments through Stripe. Share your insights by leaving reviews, contributing to a community of informed car enthusiasts. Whether you're seeking a reliable family SUV or a sleek sports car, our app puts the power of choice in your hands.",
+      "admin": "Behind the scenes, our admin panel empowers dealers to seamlessly manage the car inventory, monitor bookings, and handle notifications. Admins have full control over user management, ensuring a smooth and secure order processing system. Stay on top of the operation with comprehensive tools for maintaining user data, orders, and overall system efficiency."
+    },
+    "call_to_action": "Elevate your car-buying journey with the Car Dealer app, where quality, convenience, and security converge. For users and administrators alike, this platform represents a revolutionary approach to car acquisition and management. Welcome to a digital marketplace that redefines the automotive experience – your dream car awaits!",
     "beAdmin": "To be an Admin, Please Login with this information Email: admin@admin.com Password: 123456789",
     "live": "https://car-dealer-259e0.web.app/",
     "client_code": "https://github.com/ImranHossain1/Car-Dealer-client",
@@ -17,17 +111,26 @@
     "tech": "Material-UI, ReactJS, NodeJS, Firebase, Stripe, React Hooks, React Router, MongoDB, React Query, React Tostify, React Firebase Hooks"
   },
   {
-    "img": "https://i.ibb.co/vwgQM13/localhost-44382.png",
-    "img1": "https://i.ibb.co/6WCHK9X/product-List.png",
-    "img2": "https://i.ibb.co/f2zPNpn/register.png",
-    "img3": "https://i.ibb.co/zQBvwKr/cart.png",
-    "img4": "https://i.ibb.co/Xp26ytW/create-new-Product.png",
-    "img5": "https://i.ibb.co/RSpTwDP/Order-Summaryin-Admin.png",
-    "name": "Bulky Book Web",
-    "id": "book",
-    "description": "A MVC and Entity Framework-based ASP.Net project for online shopping. Through Identity User, users can register for various roles, order the books they want, and pay for them. The administrator can create new categories, covertypes, and products, as well as register new administrators and users in various positions.",
-    "server_code": "https://github.com/ImranHossain1/BulkyBook",
-    "tech": "ASP.NET core, Sql server, EntityFramework, MVC, Web API, IdentityUser, Sendgrid, Stripe"
+    "img": "https://i.ibb.co/HrGFDdD/home.png",
+    "img1": "https://i.ibb.co/7YMpVj6/bookList.png",
+    "img2": "https://i.ibb.co/F4C87xP/create-Book.png",
+    "img3": "https://i.ibb.co/F3r6p9w/reading-List.png",
+    "img4": "https://i.ibb.co/C6TJ8PL/wishList.png",
+    "img5": "https://i.ibb.co/rx7Z3yR/editBook.png",
+    "img6": "https://i.ibb.co/wdPbwdr/book-Detail.png",
+    "name": "Book Store",
+    "id": "book_store",
+    "description": "Introducing a cutting-edge book store app that seamlessly blends a user-friendly interface with powerful functionality. Built using React, Redux, and Tailwind CSS on the front end, and Node.js, Express, and MongoDB with Mongoose on the backend, this application provides a dynamic and responsive experience for book enthusiasts.",
+    "features": {
+      "user": "Users can personalize their reading journey by adding books to their watchlist and reading list, and express their thoughts through reviews. The platform empowers readers to curate their literary experiences in an interactive and engaging way.",
+      "admin": "For administrators, the app offers robust capabilities, allowing them to effortlessly create and edit book details, ensuring that the collection is always up-to-date and relevant. The intuitive design and feature-rich architecture make this book store app an ideal choice for both avid readers and administrators seeking a streamlined and efficient platform for managing and enjoying a diverse range of books."
+    },
+    "call_to_action": "Elevate the book-buying and reading experience with this innovative application that caters to the needs of users and administrators alike. Welcome to a digital book store that marries functionality with elegance.",
+    "beAdmin": "To be an Admin, Please Login with this information Email: admin@admin.com Password: 123456789",
+    "live": "https://car-dealer-259e0.web.app/",
+    "client_code": "https://github.com/ImranHossain1/Car-Dealer-client",
+    "server_code": "https://github.com/ImranHossain1/Car-Dealer-Server",
+    "tech": "Material-UI, ReactJS, NodeJS, Firebase, Stripe, React Hooks, React Router, MongoDB, React Query, React Tostify, React Firebase Hooks"
   },
   {
     "img": "https://i.ibb.co/nfhb9Wn/home.png",
@@ -39,11 +142,34 @@
     "img6": "https://i.ibb.co/g7BYHVn/notifications.png",
     "name": "Tourism Guide",
     "id": "tourism",
-    "description": "A travel guide based on several locations in Germany. A user can change their profile, book trips, view their list of reservations, and pay for them. They can also add images for those cities and leave evaluations for our guidance. Admin can manage users, locations , and Notifications",
-    "live": "https://tourism-guide-ddb6e.web.app/",
+    "description": "Embark on a journey through Germany with our Travel Guide app – your ultimate companion for exploring diverse locations across the country. Discover enchanting cities, breathtaking landscapes, and cultural treasures. Tailor your travel experience with the ability to change your profile, book trips seamlessly, and access a personalized list of reservations. Effortlessly make secure payments for your adventures and enrich the community by adding images and leaving evaluations for each destination.",
+    "features": {
+      "user": " Experience the freedom to customize your travel profile, book unforgettable trips, and manage your reservations – all at your fingertips. Capture the essence of each city with image uploads and share your insights through valuable evaluations. Your journey, your way.",
+      "admin": "Behind the scenes, our admin dashboard empowers administrators to efficiently manage users, locations, and notifications. Streamline user interactions, curate the list of enchanting destinations, and stay connected with users through notifications. Admins have the tools to create a seamless travel experience for all users."
+    },
+    "call_to_action": "  Elevate your travel adventures with the Travel Guide app – where every journey is an exploration of the extraordinary. Whether you're a user creating memorable experiences or an admin shaping the travel landscape, join us on a quest to redefine travel guidance in Germany. Welcome to a digital travel companion that invites you to explore, connect, and discover the beauty of Germany like never before!",
+    "live": "https: //tourism-guide-ddb6e.web.app/",
     "client_code": "https://github.com/ImranHossain1/travel-guide-client",
     "server_code": "https://github.com/ImranHossain1/travel-guide-server",
     "tech": "Daisy-UI, ReactJS, NodeJS, Firebase, Stripe, React Hook Form, React Router v6, MongoDB, React Query, React Tostify, React Firebase Hooks."
+  },
+  {
+    "img": "https://i.ibb.co/vwgQM13/localhost-44382.png",
+    "img1": "https://i.ibb.co/6WCHK9X/product-List.png",
+    "img2": "https://i.ibb.co/f2zPNpn/register.png",
+    "img3": "https://i.ibb.co/zQBvwKr/cart.png",
+    "img4": "https://i.ibb.co/Xp26ytW/create-new-Product.png",
+    "img5": "https://i.ibb.co/RSpTwDP/Order-Summaryin-Admin.png",
+    "name": "Bulky Book Web",
+    "id": "book",
+    "description": "Welcome to our state-of-the-art Online Shopping platform, a meticulously designed ASP.Net project that seamlessly integrates MVC and Entity Framework. Dive into a user-friendly experience where Identity User allows users to register for various roles, unlocking a world of personalized online shopping.",
+    "features": {
+      "user": "   Register with ease, explore an extensive catalog of products, and place orders effortlessly. Thanks to Identity User, users can securely pay for their chosen books, creating a streamlined and secure shopping experience. Whether you're a casual reader or a book enthusiast, our platform caters to every literary need.",
+      "admin": "Empowering administrators, our platform provides the tools to create new categories, cover types, and products, ensuring a dynamic and ever-expanding product range. Admins can also register new administrators and users in various positions, fostering a collaborative and efficient online shopping environment."
+    },
+    "call_to_action": "   Join us in redefining the online shopping experience with our ASP.Net project. Whether you're a user navigating through a world of books or an admin shaping the digital marketplace, this platform is your gateway to a seamless and secure online shopping journey. Welcome to a digital marketplace where diversity, efficiency, and security converge for an unparalleled online shopping adventure!",
+    "server_code": "https://github.com/ImranHossain1/BulkyBook",
+    "tech": "ASP.NET core, Sql server, EntityFramework, MVC, Web API, IdentityUser, Sendgrid, Stripe"
   },
   {
     "img": "https://i.ibb.co/MZKTj6q/home.png",
@@ -55,11 +181,35 @@
     "img6": "https://i.ibb.co/pnBMFnk/userList.png",
     "name": "Doctor's Portal",
     "id": "doctors-portal",
-    "description": "A Doctor's portal. People can make appointment in a available date and time, view their list of appointments, and pay for them. Admin can manage users, and doctors.",
+    "description": "Introducing the Doctor's Portal, a dedicated platform designed to streamline the healthcare experience for both patients and administrators. Built with user-friendly features, this portal allows individuals to effortlessly make appointments in available date and time slots, view their list of upcoming appointments, and conveniently pay for healthcare services.",
+    "features": {
+      "user": "  Patients can take control of their healthcare journey by accessing a user-friendly interface to schedule appointments at their convenience. The portal provides a transparent view of upcoming appointments, allowing individuals to manage their healthcare commitments seamlessly. Secure payment options add an extra layer of convenience, ensuring a hassle-free experience.",
+      "admin": "  Administrators can efficiently manage users and doctors through the portal's intuitive backend. From overseeing user profiles to coordinating doctor schedules, the admin tools provide a centralized hub for effective healthcare management.",
+      "extra": "  The Doctor's Portal is more than just an appointment scheduling platform; it's a catalyst for a streamlined healthcare experience. Bridging the gap between patients and administrators, this portal sets a new standard for accessibility, convenience, and efficient healthcare management."
+    },
+    "call_to_action": "Join us in revolutionizing healthcare with the Doctor's Portal — where appointments are made easy, and healthcare management is seamless. Welcome to a digital healthcare solution that prioritizes the well-being of both patients and healthcare providers.",
     "live": "https://doctors-portal-2-a0697.web.app/",
     "client_code": "https://github.com/ImranHossain1/Doctor-portal-client-daisyUi",
     "server_code": "https://doctor-portal-server-daisyui-production.up.railway.app/",
     "tech": "Bootstrap, React, Firebase, Context API, React Router."
+  },
+  {
+    "img": "https://i.ibb.co/gRx5pQR/home.png",
+    "img1": "https://i.ibb.co/LYmZhzr/create-Product.png",
+    "img2": "https://i.ibb.co/kMVXDtV/pcBuild.png",
+    "img3": "https://i.ibb.co/59VtdS2/product-List.png",
+    "name": "Next Gen PC-Builder",
+    "id": "Education",
+    "description": "Introducing the Next Generation PC Builder, a revolutionary platform for tech enthusiasts to sculpt their ultimate computing experience. Crafted with the latest web technologies, including Next.js, Redux, Tailwind CSS, Node.js, Express.js, and MongoDB, this project sets a new standard for custom PC creation.",
+    "features": {
+      "user": "   Dive into a personalized journey with an intuitive interface powered by Next.js page router. Fine-tune your PC configuration dynamically using Redux, and enjoy the sleek and modern design with Tailwind CSS. From processors to graphics cards, explore a vast array of hardware components to create a PC tailored to your specific requirements.",
+      "extra": "  More than a tool, the Next Generation PC Builder is a revolution in personalized computing. Combining cutting-edge web technologies with a user-friendly interface, this innovative platform redefines the PC building experience, setting a new standard for customization and convenience."
+    },
+    "call_to_action": "More than a tool, the Next Generation PC Builder is a revolution in personalized computing. Combining cutting-edge web technologies with a user-friendly interface, this innovative platform redefines the PC building experience, setting a new standard for customization and convenience.",
+    "live": "https://pc-builder-client-pied.vercel.app/",
+    "client_code": "https://github.com/ImranHossain1/starTech-NextJs-Client",
+    "server_code": "https://github.com/ImranHossain1/StarTech-server",
+    "tech": "Next Js (Page Router), Redux, Node Js, Express Js, Mongoose."
   },
   {
     "img": "https://i.ibb.co/Zxf2vHH/homePage.png",
@@ -74,18 +224,6 @@
     "description": "A health care service where people can make appointment on individual doctor.",
     "live": "https://health-care-service-d3a56.web.app/",
     "client_code": "https://github.com/ImranHossain1/health-care-Services",
-    "tech": "Bootstrap, React, Firebase, Context API, React Router."
-  },
-  {
-    "img": "https://i.ibb.co/5MKpNMV/home.png",
-    "img1": "https://i.ibb.co/qJvB7qz/courses.png",
-    "img2": "https://i.ibb.co/sVQbvpD/About.png",
-    "img3": "https://i.ibb.co/h8LVVmR/review.png",
-    "name": "Web Education",
-    "id": "Education",
-    "description": "A web education service that provides different kind of courses in online. User can save on the cart and buy the courses they want.",
-    "live": "https://web-teaching.netlify.app/",
-    "client_code": "https://github.com/ImranHossain1/EducationalWebsite",
     "tech": "Bootstrap, React, Firebase, Context API, React Router."
   }
 ]

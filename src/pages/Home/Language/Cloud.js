@@ -11,7 +11,7 @@ import "./Languages.css";
 const Cloud = () => {
   const [focusElement, setFocusElement] = useState(0);
   const images = [aws, docker, Kubernetes, cicd, git];
-  const dynamicText = ["Node", "Django", "Kubernetes", "CI/CD", "GIT"];
+  const dynamicText = ["AWS", "Django", "Kubernetes", "CI/CD", "GIT"];
 
   return (
     <div
